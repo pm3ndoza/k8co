@@ -1,0 +1,17 @@
+[
+  "test/test_k8co.py::test_account_con_typo_y_usuario_acepta",
+  "test/test_k8co.py::test_account_con_typo_y_usuario_rechaza",
+  "test/test_k8co.py::test_ambiente_con_typo_y_usuario_acepta",
+  "test/test_k8co.py::test_ambiente_con_typo_y_usuario_rechaza",
+  "test/test_k8co.py::test_ambiente_en_mayusculas",
+  "test/test_k8co.py::test_buscar_account_con_contexto_sin_ambiente",
+  "test/test_k8co.py::test_buscar_account_en_mayusculas",
+  "test/test_k8co.py::test_buscar_account_sin_ambiente_pero_usuario_pasa_ambiente",
+  "test/test_k8co.py::test_buscar_con_account_incorrecto",
+  "test/test_k8co.py::test_buscar_con_account_incorrecto_ambiente_correcto",
+  "test/test_k8co.py::test_buscar_con_ambiente_correcto",
+  "test/test_k8co.py::test_buscar_con_ambiente_incorrecto",
+  "test/test_k8co.py::test_buscar_sin_ambiente",
+  "test/test_k8co.py::test_extraer_ambientes_ignora_contextos_sin_guion",
+  "test/test_k8co.py::test_extraer_cuentas_incluye_contexto_sin_guion"
+]
