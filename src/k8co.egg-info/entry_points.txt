@@ -1,2 +1,0 @@
-[console_scripts]
-k8co = k8co.cli:main
